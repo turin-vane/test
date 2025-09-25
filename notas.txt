@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-Estoy en master
-=======
-Estoy en rama1
->>>>>>> rama1
+hola
 
-23
